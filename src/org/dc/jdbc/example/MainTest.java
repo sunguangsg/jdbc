@@ -7,6 +7,12 @@ import org.dc.jdbc.example.entity.User;
 import com.alibaba.druid.pool.DruidDataSource;
 import com.zaxxer.hikari.HikariDataSource;
 
+/**
+ * 
+ * 注释
+ * @author 1
+ *
+ */
 public class MainTest {
 	public static void main(String[] args) {
 		DruidDataSource dataSource = new DruidDataSource();
